@@ -1,0 +1,5 @@
+GNU GENERAL PUBLIC LICENSE
+
+Copyright (c) [YEAR] [AUTHOR]
+
+This program is free software: you can redistribute it and/or modify...
